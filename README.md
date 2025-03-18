@@ -1,4 +1,4 @@
-# Documentação do Projeto Pokédex
+![image](https://github.com/user-attachments/assets/175c50d3-f5b6-439b-a147-af6d55052d66)# Documentação do Projeto Pokédex
 
 **Aluno:** Diego de Oliveira Murari Guimarães  
 **Número de Matrícula:** 24753
@@ -93,6 +93,16 @@ npm start
 ➡️ Limpe o cache do navegador com `Ctrl + F5`.  
 
 ---
+
+![image](https://github.com/user-attachments/assets/acb428c3-13ae-48fc-8353-b970a73c76b4)
+
+
+![image](https://github.com/user-attachments/assets/860af4d8-fdbc-4e3c-85dd-57c52326a1b9)
+
+
+![image](https://github.com/user-attachments/assets/a4cfb6b3-9726-4c7e-8371-d31d320344c4)
+
+
 
 ## 📋 Créditos
 Este projeto foi desenvolvido por **Diego de Oliveira Murari Guimarães** como parte de suas atividades acadêmicas.  
